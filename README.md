@@ -106,7 +106,8 @@ A website that give detailed answer of math question
         ADVERTISEMENT: Bottom Content (Responsive)
     </div>
 </div>
-
+<head><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9344791613900134"
+     crossorigin="anonymous"></script></head>
 <script>
     function solveMath() {
         const input = document.getElementById('equationInput').value;
